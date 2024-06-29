@@ -3,7 +3,7 @@
 SetCapsLockState, Off 
 SetBatchLines -1
 SoundPlay, Icons\Sound\plug.mp3
-Version = 3.9 MR
+Version = 3.9
 if (A_ScreenDPI != 96) {
     Run, ms-settings:display
     MsgBox,	16,Kiyoko's Macro, Your Scale `& layout settings need to be on 100`%
